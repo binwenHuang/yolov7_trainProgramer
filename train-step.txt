@@ -1,0 +1,11 @@
+1、替换 datasets/Annotations 和 datasets/Images
+
+2、修改 dadasets/coco.yaml 文件，修改类别数量和类别名称
+
+3、运行dadasets/Main.py 得到了 ImageSets/Main/train.txt 和 test.txt
+
+4、hyp.scratch.p5.yaml 为 yolov7 的超参设置，可以直接从 data/ 下复制
+
+5、在yolov7的根目录下运行 xml_2_txt.py，将VOC格式的 .xml 标注文件转化为yolo格式的数据集 .txt 文件
+
+6、修改 train.py 

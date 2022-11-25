@@ -1,0 +1,6 @@
+train: ./datasets/train.txt  # 118287 images
+val: ./datasets/val.txt  # 5000 images
+
+nc: 2
+
+names: ['fall','normal']

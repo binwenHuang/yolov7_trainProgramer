@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>015106.jpg</filename>
+	<path>D:\Desktop\5\015106.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>83</ymin>
+			<xmax>38</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>
